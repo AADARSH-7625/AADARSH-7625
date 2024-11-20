@@ -40,7 +40,11 @@ Welcome to my GitHub profile! I’m a creative web developer with a knack for de
 
 <h2>🎨 About Me</h2>
 
-**🚀 Currently Working On:** ShoeCraze – a modern e-commerce platform dedicated to shoe lovers.
+🚀 Currently Working On:
+
+**ShoeCraze 👟** – a modern e-commerce platform dedicated to shoe lovers, featuring stylish design and interactive shopping functionalities.
+
+**Ticket Booking Website 🎟️** – a dynamic platform for booking flights, trains, and hotels, offering a secure login system, real-time booking updates, and a responsive user interface.
 
 **🌱 Learning More About:** AI integration for web projects and UI/UX trends to enhance user experience.
 
@@ -55,6 +59,10 @@ Welcome to my GitHub profile! I’m a creative web developer with a knack for de
 **Here are some projects I’m proud of:**
 
 **🌟 ShoeCraze:** A full-featured e-commerce website with a stylish, user-focused design, interactive cart, and real-time updates.
+
+**🎟️ Ticket Booking System:** A streamlined booking platform for flights, trains, hotels, and travel services, featuring a secure login system, password reset functionality, and responsive design.
+
+**🔑 Login and Register System:** A secure and efficient user authentication system with functionalities for registration, login, and password recovery using token-based verification.
 
 **🎬 Movie Website UI:** A visually engaging movie website mock-up crafted with a focus on UI/UX for film enthusiasts.
 
