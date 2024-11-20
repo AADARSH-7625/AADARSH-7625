@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I’m a creative web developer with a knack for de
 
 <h2>🎨 About Me</h2>
 
-****🚀 Currently Working On:****
+**🚀 Currently Working On:**
 
 **ShoeCraze 👟** – a modern e-commerce platform dedicated to shoe lovers, featuring stylish design and interactive shopping functionalities.
 
