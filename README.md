@@ -35,6 +35,7 @@ Here’s how to get involved in this project:
 <br>
 
 <h1>Hey there! 👋 I'm Aadarsh..</h1>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=AADARSH-7625&color=green)
 
 Welcome to my GitHub profile! I’m a creative web developer with a knack for designing sleek, responsive websites and applications. I’m always excited about new projects, clean code, and pushing the limits of what’s possible on the web.
