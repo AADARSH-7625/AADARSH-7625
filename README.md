@@ -1,5 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=AADARSH-7625&color=blue)
-
 <h1>Contribute to Our Travel Booking Website Project ✈️🚆🏨</h1>
 
 Welcome to the **Travel Booking Platform** project! This is an open-source project aimed at building a dynamic and user-friendly platform that allows users to book flights, trains, hotels, and travel packages effortlessly. This project is for those who want to **contribute**, **gain experience**, and **enhance their knowledge** in real-world development. Whether you're a beginner or an experienced developer, you're welcome to collaborate and learn with us!
@@ -37,6 +35,7 @@ Here’s how to get involved in this project:
 <br>
 
 <h1>Hey there! 👋 I'm Aadarsh..</h1>
+![Profile Views](https://komarev.com/ghpvc/?username=AADARSH-7625&color=green)
 
 Welcome to my GitHub profile! I’m a creative web developer with a knack for designing sleek, responsive websites and applications. I’m always excited about new projects, clean code, and pushing the limits of what’s possible on the web.
 
