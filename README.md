@@ -1,3 +1,5 @@
+***"Work hard in silence; let your success be your noise."***
+
 <h1>Contribute to Our Travel Booking Website Project ✈️🚆🏨</h1>
 
 Welcome to the **Travel Booking Platform** project! This is an open-source project aimed at building a dynamic and user-friendly platform that allows users to book flights, trains, hotels, and travel packages effortlessly. This project is for those who want to **contribute**, **gain experience**, and **enhance their knowledge** in real-world development. Whether you're a beginner or an experienced developer, you're welcome to collaborate and learn with us!
