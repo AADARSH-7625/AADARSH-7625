@@ -1,39 +1,3 @@
-<h1>Contribute to Our Travel Booking Website Project ✈️🚆🏨</h1>
-
-Welcome to the **Travel Booking Platform** project! This is an open-source project aimed at building a dynamic and user-friendly platform that allows users to book flights, trains, hotels, and travel packages effortlessly. This project is for those who want to **contribute**, **gain experience**, and **enhance their knowledge** in real-world development. Whether you're a beginner or an experienced developer, you're welcome to collaborate and learn with us!
-
----
-
-### 🚀 What We're Building
-Our platform aims to:
-- Provide seamless booking experiences for flights, trains, and hotels.
-- Offer advanced search and filter options for personalized results.
-- Integrate secure payment systems for worry-free transactions.
-- Suggest travel packages to simplify trip planning.
-
----
-
-### 👩‍💻 How You Can Help
-We’d love your contributions in the following areas:
-- **Frontend Development:** Enhance the user interface with clean and responsive designs.
-- **Backend Development:** Build APIs for booking, user accounts, and payment processing.
-- **Database Management:** Set up and optimize databases for bookings, inventory, and users.
-- **Testing & Debugging:** Ensure functionality, performance, and reliability.
-- **Documentation:** Write guides and help improve onboarding for new contributors.
-
----
-
-### 🛠️ Getting Started
-Here’s how to get involved in this project:
-
-1. **Fork this repository** to your account.
-2. **Clone it locally**:
-   ```bash
-   git clone https://github.com/yourusername/travel-booking-website.git
-
-<br>
-<br>
-
 <h1>Hey there! 👋 I'm Aadarsh..</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AADARSH-7625&color=green)
@@ -50,7 +14,33 @@ Welcome to my GitHub profile! I’m a creative web developer with a knack for de
 
 **🌱 Learning More About:** AI integration for web projects and UI/UX trends to enhance user experience.
 
-**💡 Tech Stack:** HTML, CSS, JavaScript, React, Node.js – the essentials for beautiful, functional web experiences.
+## 🚀 Tech Stack
+
+## **Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+</p>
+
+## **Backend & Database**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sqlite&logoColor=white" />
+</p>
+
+## **Design & UI/UX**
+<p>
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-orange?style=flat&logo=adobe&logoColor=white" />
+ </p>
+
+---
+
 
 **🎯 Goal:** To blend design with functionality in every project, creating meaningful, user-centered applications.
 
