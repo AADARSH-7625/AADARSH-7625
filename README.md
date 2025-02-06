@@ -56,8 +56,6 @@ Welcome to my GitHub profile! I’m a creative web developer with a knack for de
 
 **🔑 Login and Register System:** A secure and efficient user authentication system with functionalities for registration, login, and password recovery using token-based verification.
 
-**🎬 Movie Website UI:** A visually engaging movie website mock-up crafted with a focus on UI/UX for film enthusiasts.
-
 **🌐 Portfolio:** My personal portfolio – showcasing my skills, projects, and contact details.
 
 <h2>🛠️ Skills & Tools</h2>
