@@ -58,23 +58,6 @@ Welcome to my GitHub profile! I’m a creative web developer with a knack for de
 
 **🌐 Portfolio:** My personal portfolio – showcasing my skills, projects, and contact details.
 
-<h2>🛠️ Skills & Tools</h2>
-
-**🌐 Languages & Frameworks**
-
-Frontend: HTML | CSS | JavaScript | React
-
-Backend: Node.js | Express | PHP
-
-**🗄️ Databases**
-
-MySQL | MongoDB
-
-**🎨 Design & Collaboration Tools**
-
-VS Code | Git 
-
-
 <h2>🌐 Connect with Me!</h2>
 
 **I’m always excited to connect, collaborate, and create. Let’s chat!**
